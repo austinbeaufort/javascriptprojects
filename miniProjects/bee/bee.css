@@ -1,0 +1,18 @@
+.black {
+    background-color: black;
+    color: yellow;
+}
+
+.yellow {
+    background-color: yellow;
+}
+
+#myButton {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    font-family: "Arial Black";
+    border: none;
+}
